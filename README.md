@@ -1,9 +1,9 @@
 # lubimy-czytac-scraper
-A simple scraper to scrap data about the top 100 most popular books in recent months on the Polish site lubimyczytac.pl. Codes for both Selenium and Scrapy. 
+A simple scraper to scrap data about the top 100 most popular books in recent months on the Polish site lubimyczytac.pl (https://lubimyczytac.pl/top100). 
+Codes for both Selenium and Scrapy. 
 
 Codes for Scrapy are located in the scrapy_project folder and for Selenium in selenium_scraper.
 
-<br/><br/>
 
 Guide for running Scrapy scraper:
 
