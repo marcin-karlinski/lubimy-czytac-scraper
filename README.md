@@ -6,6 +6,7 @@ Codes for Scrapy are located in the scrapy_project folder and for Selenium in se
 <br/><br/>
 
 Guide for running Scrapy scraper:
+
 1. To run scrapy scraper you need enter a command line and create a scrapy project with the following command:
 
 scrapy startproject myproject [project_dir]
