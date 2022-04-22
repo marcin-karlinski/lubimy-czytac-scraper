@@ -30,6 +30,5 @@ Guide for running Scrapy scraper:
    scrapy crawl scrapy_books -o books.csv
    ```
 
-<br/><br/>
 
 A sample output can be found in the books.csv file.
