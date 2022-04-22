@@ -11,7 +11,6 @@ Guide for running Scrapy scraper:
    ```
    scrapy startproject myproject [project_dir]
    ```
-
    in a directory of your choice.  
 
 2. Then go to the specified directory with a command:  
@@ -28,7 +27,7 @@ Guide for running Scrapy scraper:
 
    If you want to store the results in a .csv file you can add -o file_name.csv:   
    ```
-   scrapy crawl scrapy_books
+   scrapy crawl scrapy_books -o books.csv
    ```
 
 <br/><br/>
