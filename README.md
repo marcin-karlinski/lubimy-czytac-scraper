@@ -3,8 +3,8 @@ A simple scraper to scrap data about the top 100 most popular books in recent mo
 
 Codes for Scrapy are located in the scrapy_project folder and for Selenium in selenium_scraper.
 
-\
-
+<br/><br/>
+<br/><br/>
 
 Guide for running Scrapy scraper:
 1. To run scrapy scraper you need enter a command line and create a scrapy project with the following command:
@@ -27,7 +27,7 @@ If you want to store the results in a .csv file you can add -o file_name.csv:
 
 scrapy crawl scrapy_books
 
-\
-
+<br/><br/>
+<br/><br/>
 
 A sample output can be found in the books.csv file.
